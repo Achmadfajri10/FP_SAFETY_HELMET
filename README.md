@@ -1,4 +1,4 @@
-# FP_SAFETY_HELMET_3D
+# FP_SAFETY_HELMET
 
 # Safety Helmet WebGL
 
@@ -12,9 +12,7 @@ Proyek ini merupakan implementasi dari safety helmet yang ada di kost saya yang 
 
 ![Screenshot 2024-12-18 204205](https://github.com/user-attachments/assets/71436501-e276-4332-9847-65332db62b6c)
 
-*Tampilan ketika menjalankan WEBGL Safety Helmet 3D*
-
-*Tampilan perspektif menunjukkan kedalaman dan detail bagian dalam*
+*Tampilan ketika menjalankan WEBGL Safety Helmet *
 
 ## Struktur Proyek
 ```
@@ -42,7 +40,7 @@ FP_SAFETY_HELMET_3D/
 ## Cara Menjalankan
 1. Clone repository:
 ```bash
-git clone https://github.com/Achmadfajri10/FP_SAFETY_HELMET_3D.git
+git clone https://github.com/Achmadfajri10/FP_SAFETY_HELMET.git
 ```
 
 2. Buka proyek:
